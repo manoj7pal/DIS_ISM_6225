@@ -1,0 +1,12 @@
+Self Reflection Document:
+
+This assignment helped me a great deal to build a simple consolde based C# application with the help of learn techniues in the class. I went ahed and explored some of the functionalities on my own for completing this assignement which are as follows:
+1. String methods: like ToUpper(), ToLower(), Substring()
+2. Array Manipulaation Techniques: Accessing and Traveersing, Joining the elements without traversing, Length Attributes, Reversing etc.
+3. Exception handling: Stack trace and message attributes
+4. Methods writing: encomapssiogn the code in a logical bolcks called methods.
+5. Collection: I exploted and used one of the collection items called Dicionary in the problem3(Sum of Unique) of this assignment.
+
+Overall, I took around 3hours to solve this problem completely. The major challenge I faced in formulating the solution for the problem 5 and 6 to avoid multiple for loops. Also, the time complexity improved with the help of this, from O(n^2) to O(n) for the last 2 problems. Also, I used only one for loop in DiagonalSum to fetch the diagonal elements in the same row which led to O(n) complexioty in that problem as well.
+
+I liked the variety of the problems given in this assignment, which helped me to explore more capabilities of C#. But, I would like to have some theoretical based question as well, where we can explain our understanding in a brief manner, or MCQ's.
